@@ -1,0 +1,10 @@
+Nome: Fernanda Lobao
+E-mail: fernanda@gmail.com
+Profissão: progamadora
+idade: 30
+
+------------------------------
+
+Nome: mariana
+Email: mariana@gmail.com
+ Profissão: estudante
